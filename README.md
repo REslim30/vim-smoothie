@@ -15,7 +15,7 @@ Neovim 0.3+ should do the trick.
 
 Install the plugin using your favorite plugin manager, for example [vim-plug]:
 ```
-Plug 'psliwka/vim-smoothie'
+Plug 'REslim30/vim-smoothie'
 ```
 
 Customization
