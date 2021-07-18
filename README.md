@@ -54,7 +54,7 @@ popular smooth scrolling plugins I've used in the past: [sexy_scroller.vim],
 
 |  | vim-smoothie | [sexy_scroller.vim] | [comfortable-motion.vim] | [vim-smooth-scroll] |
 |---|:---:|:---:|:---:|:---:|
-| Supported commands | `^D` `^U` `^F` `^B` `gg`<sup>1</sup> `G`<sup>1</sup> | A lot❤️ | `^D` `^U` `^F` `^B` | `^D` `^U` `^F` `^B` |
+| Supported commands | `^D` `^U` `^F` `^B` `gg`<sup>1</sup> `G`<sup>1</sup> `zz`<sup>1</sup> `z.`<sup>1</sup> `zz`<sup>1</sup> `zt`<sup>1</sup> | A lot❤️ | `^D` `^U` `^F` `^B` | `^D` `^U` `^F` `^B` |
 | Erratic screen jumps and jittering now and then | Nope | A lot💔 | Nope | Nope |
 | Scrolling distance is proportional to window height | ✅ | ✅ | ❌ | ✅ |
 | Easing out (soft-stop) | ✅ | ✅ | ✅ | ❌ |
