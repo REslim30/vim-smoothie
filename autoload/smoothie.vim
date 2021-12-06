@@ -442,7 +442,6 @@ function smoothie#middle()
     exe "normal! zz"
     return
   endif
-  echom s:winmidline()
   let l:lines = s:calculate_screen_lines(s:winmidline(), line('.'))
   call s:perform_disjoint_scroll(l:lines)
 endfunction
